@@ -1,0 +1,1 @@
+("8.2" ta6nt ("8c5d4903d8d64aee5c5e27b757c5b3a1377d1919" . "ef9e15182998eab4be7560fa5f63b7ceab3f929d") (collects #"eopl" #"lang" #"reader.rkt") (collects #"eopl" #"main.rkt") (collects #"errortrace" #"errortrace-key.rkt"))

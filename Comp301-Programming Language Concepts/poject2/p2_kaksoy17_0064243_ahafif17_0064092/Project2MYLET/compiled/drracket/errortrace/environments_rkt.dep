@@ -1,0 +1,1 @@
+("8.2" ta6nt ("8457cd28ab10e82f5e42bc48eb07054c9f3a70f7" . "f14384835cf52fc4d1d31347eff2901186545a48") #"C:\\Users\\keremaksoy\\Desktop\\2021 Fall\\COMP-301\\poject1\\data-structures.rkt" (collects #"eopl" #"lang" #"reader.rkt") (collects #"eopl" #"main.rkt") (collects #"errortrace" #"errortrace-key.rkt"))
